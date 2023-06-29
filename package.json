@@ -1,0 +1,6 @@
+{
+  "name": "my-resume",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
